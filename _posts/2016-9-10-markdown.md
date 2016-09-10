@@ -28,7 +28,7 @@ author: JVerice
 
   ...
 
-   ![标题](../gif/image/标题.png)
+   ![标题](http://oda7fm1lk.bkt.clouddn.com/%E6%A0%87%E9%A2%98.png)
 
   以此类推，总共六级标题，建议在井号后加一个空格，这是最标准的 Markdown 语法。
 
@@ -38,7 +38,7 @@ author: JVerice
 
 熟悉 HTML 的同学肯定知道有序列表与无序列表的区别，在 Markdown 下，列表的显示只需要在文字前加上 `-` 或 `*` 即可变为无序列表，有序列表则直接在文字前加`1.` `2.` `3.` 符号要和文字之间加上一个字符的空格。
 
- ![列表](../gif/image/列表.png)
+ ![列表](http://oda7fm1lk.bkt.clouddn.com/%E5%88%97%E8%A1%A8.png)
 
 - 无序列表：在文字前加`-` 或`*`
 
@@ -54,7 +54,7 @@ author: JVerice
 >
 > 只需要在文本前加入 `>` 这种尖括号（大于号）即可
 
- ![引用](../gif/image/引用.png)
+ ![引用](http://oda7fm1lk.bkt.clouddn.com/%E5%BC%95%E7%94%A8.png)
 
 ## 图片与链接
 
@@ -67,7 +67,7 @@ author: JVerice
 
  
 
-![图片与链接](../gif/image/图片与链接.png)
+![图片与链接](http://oda7fm1lk.bkt.clouddn.com/%E5%9B%BE%E7%89%87%E4%B8%8E%E9%93%BE%E6%8E%A5.png)
 
 
 
@@ -111,7 +111,7 @@ Markdown 的粗体和斜体也非常简单，用两个 `*` 包含一段文本就
 
 
 
-![代码框](../gif/image/代码框.png)
+![代码框](http://oda7fm1lk.bkt.clouddn.com/%E4%BB%A3%E7%A0%81%E6%A1%86.png)
 
 
 
@@ -151,7 +151,7 @@ Markdown 的粗体和斜体也非常简单，用两个 `*` 包含一段文本就
 
   ​
 
-  ![dillinger](../gif/image/dillinger.png)
+  ![dillinger](http://oda7fm1lk.bkt.clouddn.com/dillinger.png)
 
   ​
 
@@ -159,15 +159,14 @@ Markdown 的粗体和斜体也非常简单，用两个 `*` 包含一段文本就
 
   ​
 
-  ![MaHua](../gif/image/MaHua.png)
+  ![MaHua](http://oda7fm1lk.bkt.clouddn.com/MaHua.png)
 
-   
 
 * [简书](http://www.jianshu.com/) 一个很不错的博客平台，每几秒钟便会自动存入一个备份。可以直接从本地拖入照片生成链接，一直在不断优化。作为一个博客平台，需要注册账号后方能进行写作。
 
   ​
 
-  ![简书](../gif/image/简书.png)
+  ![简书](http://oda7fm1lk.bkt.clouddn.com/%E7%AE%80%E4%B9%A6.png)
 
   ​
 
@@ -175,7 +174,7 @@ Markdown 的粗体和斜体也非常简单，用两个 `*` 包含一段文本就
 
   ​
 
-  ![Typora](../gif/image/Typora.png)
+  ![Typora](http://oda7fm1lk.bkt.clouddn.com/Typora.png)
 
   ​
 
