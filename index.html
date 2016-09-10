@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html>
   <head>
@@ -17,6 +18,34 @@
       <header>
         <h1>Jverice.GitHub.io</h1>
         <p></p>
+=======
+﻿---
+layout: default
+---
+
+<div class="page clearfix" index>
+    <div class="left">
+        <h1>Welcome to JVerice's Blog!</h1>
+        <small>这里记录着我的Java学习之路</small>
+        <hr>
+        <ul>
+            {% for post in paginator.posts %}
+              <li>
+                <h2>
+                  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+                <div class="label">
+                    <div class="label-card">
+                        <i class="fa fa-calendar"></i>{{ post.date | date: "%F" }}
+                    </div>
+                    <div class="label-card">
+                        {% if post.author %}<i class="fa fa-user"></i>{{ post.author }}
+                        {% endif %}
+                    </div>
+                    <div class="label-card">
+                        {% if page.meta %}<i class="fa fa-key"></i>{{ page.meta }}  {% endif %}
+                    </div>
+>>>>>>> parent of 1beb0c7... commit1
 
 
         <p class="view"><a href="https://github.com/JVerice">View My GitHub Profile</a></p>
