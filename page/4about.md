@@ -14,7 +14,7 @@ icon: heart
 
 ## 关于我
 
-[我的个人简历](http://oda7fm1lk.bkt.clouddn.com/%E7%AE%80%E5%8E%86%E6%9B%B9%E6%81%92%E4%BC%9F%E7%AE%80%E5%8E%86.doc)
+[我的个人简历](http://oda7fm1lk.bkt.clouddn.com/%E7%AE%80%E5%8E%861%E6%9B%B9%E6%81%92%E4%BC%9F%E7%AE%80%E5%8E%86.doc)
 
 ## 联系我
 - [github](https://github.com/JVerice)
